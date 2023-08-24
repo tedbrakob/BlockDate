@@ -2,6 +2,6 @@ name=BlockDate
 author=@thacuber2a03
 description=It's some random tetromino game for the Playdate console (themed edition)
 version=2.2
-buildNumber=15
+buildNumber=16
 imagePath=launcher
 bundleID=com.thacuber.playtris
